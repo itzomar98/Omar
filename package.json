@@ -1,0 +1,23 @@
+{
+  "name": "omar-aldurra-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Omar Aldurra",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "portfolio",
+    "resume",
+    "cv",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Omar Aldurra",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
