@@ -64,10 +64,11 @@ document.addEventListener('DOMContentLoaded', () => {
     }, observerOptions);
 
     // Elements to animate
-    const animateElements = document.querySelectorAll('.section-title, .about-content, .education-card, .timeline-item, .project-card, .skill-category, .contact-card');
+    // Include elements that already have the class (like in Hero) AND elements we want to add it to
+    const animateElements = document.querySelectorAll('.animate-on-scroll, .section-title, .about-content, .education-card, .timeline-item, .project-card, .skill-category, .contact-card');
 
     animateElements.forEach(el => {
-        el.classList.add('animate-on-scroll');
+        el.classList.add('animate-on-scroll'); // Ensure class is present (no-op if already there)
         observer.observe(el);
     });
 
