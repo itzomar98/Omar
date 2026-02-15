@@ -2,7 +2,7 @@
 
 A professional, responsive portfolio website for Omar Aldurra, showcasing his expertise in No-Code Development, AI Implementation, and UI/UX Design.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, Edge)
@@ -21,7 +21,7 @@ A professional, responsive portfolio website for Omar Aldurra, showcasing his ex
     ```
 5.  Open the local URL (usually `http://localhost:5173`) in your browser.
 
-## 🎨 Customization
+##  Customization
 
 ### Personal Information
 - Edit `index.html` to update your bio, contact details, or experience.
@@ -42,7 +42,7 @@ A professional, responsive portfolio website for Omar Aldurra, showcasing his ex
 - Place your PDF resume in an `assets/` folder.
 - Rename it to `Omar_Aldurra_CV.pdf` or update the link in `index.html` (line 45).
 
-## 📱 Features
+##  Features
 
 -   **Responsive Design**: Works seamlessly on mobile, tablet, and desktop.
 -   **Modern Theme**: "Tech Professional" color scheme (Blue/Purple/Green).
@@ -52,7 +52,7 @@ A professional, responsive portfolio website for Omar Aldurra, showcasing his ex
     -   Scroll animations (fade-in effects).
     -   Hover effects on cards and buttons.
 
-## 📦 Deployment
+##  Deployment
 
 You can deploy this website for free using **Vercel**, **Netlify**, or **GitHub Pages**.
 
