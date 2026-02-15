@@ -156,12 +156,12 @@ img {
 }
 
 .btn-primary {
-    background-color: var(--primary);
+    background-color: var(--primary-dark);
     color: var(--text-white);
 }
 
 .btn-primary:hover {
-    background-color: var(--primary-dark);
+    background-color: var(--primary);
     transform: translateY(-2px);
     box-shadow: var(--shadow-glow);
 }
